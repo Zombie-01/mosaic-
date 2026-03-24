@@ -1,0 +1,5 @@
+{
+  "name": "Mosaic Explorer",
+  "description": "A high-performance interactive image mosaic with smooth zoom and focus capabilities.",
+  "requestFramePermissions": []
+}
